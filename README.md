@@ -1,2 +1,2 @@
 # Loan_Prediction
-Loan_Prediction using MLFLow
+mlflow run  --experiment-name Loan_prediction
