@@ -22,7 +22,9 @@ The dataset used for this project is available in the data directory. It contain
 Several machine learning models are implemented in this project, including:
 
 Logistic Regression
+
 Random Forest
+
 Gradient Boosting
 
 ## Evaluation
