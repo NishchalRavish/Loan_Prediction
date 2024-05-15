@@ -2,13 +2,6 @@
 
 This project aims to predict loan approval status using machine learning models. The main goal is to help financial institutions automate the loan approval process and improve efficiency.
 
-## Installation
-
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install the required packages.
-
-```bash
-pip install -r requirements.txt
-```
 ## Usage
 To run the project, use the following command:
 
